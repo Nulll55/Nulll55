@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nulll55
+- 👋 Hi, I’m @Nulll55 and Im 21 years old
 - 😄 Pronouns: She/Her
 - 👀 I’m interested in games and all things technology
 - 🌱 I’m going to school for InformationTechnology ComputerScience - Programming GRADUATION DATE 2027
