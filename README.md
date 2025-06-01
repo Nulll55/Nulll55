@@ -1,7 +1,7 @@
 <h2 align="left">Hello World👋! My name is Emma and online I go by Nulll55</h2>
 
 
-<h4 align="left">I'm currently a Warehouse Clerical support 2 for bestbuy - proficient in RedPrairie Warehouse Management</h4>
+<h4 align="left">I'm currently a Warehouse Clerical support 2 for bestbuy - proficient in RedPrairie Warehouse Management System</h4>
 
 
 <div align="center">
