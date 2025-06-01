@@ -33,8 +33,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Nulll55/Nulll55/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/{Nulll55}/{Nulll55}/output/github-contribution-grid-snake-dark.svg)
 
 ###
