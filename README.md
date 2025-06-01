@@ -1,8 +1,8 @@
 <h2 align="left">Hello World👋! My name is Emma and online I go by Nulll55</h2>
-###
+
 
 <h4 align="left">I'm currently a Warehouse Clerical support 2 for bestbuy - proficient in RedPrairie Warehouse Management</h4>
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nulll55&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true" height="150" alt="stats graph"  />
